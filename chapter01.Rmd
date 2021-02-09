@@ -5,18 +5,6 @@ subtitle: <font size='8'>Cal State Northridge | Kinesiology Department</font>
 date: <font size = '6'>January 07, 2021</font>
 ---
 
-<style type="text/css">
-  .reveal p {
-    text-align: left;
-}
-  .reveal ul {
-    display: block;
-}
-  .reveal ol {
-    display: block;
-}
-</style>
-
 # Overview
 - Intro content here
 
@@ -28,7 +16,7 @@ _where_,
 
 $\bar{x}$ = sample mean
 
-$\mu$ = population mean
+$\mu$ = population me
 
 $s$ = sample standard deviation
 

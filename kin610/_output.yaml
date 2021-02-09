@@ -1,2 +1,23 @@
 revealjs::revealjs_presentation:
-  
+  incremental: false
+  fig_width: 7
+  fig_height: 6
+  fig_caption: true
+  self_contained: false
+  lib_dir: ../docs/libs
+  reveal_plugins: ["chalkboard", "search", "zoom", "notes", "menu"]
+  reveal_options:
+      slideNumber: true
+      previewLinks: true
+      chalkboard:
+        theme: whiteboard
+        toggleNotesButton: true
+      menu:
+       side: left
+       numbers: true
+       custom: true
+       openButton: true
+  theme: default
+  transition: slide
+  highlight: pygments
+  center: false
