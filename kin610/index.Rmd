@@ -2,4 +2,4 @@
 title: "<h2>List of Presentations<h2>"
 ---
 
-- [Chapter 01](docs/chapter01.html)
+- [Chapter 01](chapter01.html)
