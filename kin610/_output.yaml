@@ -4,7 +4,7 @@ revealjs::revealjs_presentation:
   fig_height: 6
   fig_caption: true
   self_contained: false
-  lib_dir: ../docs/libs
+  lib_dir: libs
   reveal_plugins: ["chalkboard", "search", "zoom", "notes", "menu"]
   reveal_options:
       slideNumber: true

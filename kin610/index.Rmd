@@ -1,5 +1,0 @@
----
-title: "<h2>List of Presentations<h2>"
----
-
-- [Chapter 01](chapter01.html)
