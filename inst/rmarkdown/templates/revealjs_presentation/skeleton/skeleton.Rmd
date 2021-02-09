@@ -1,6 +1,15 @@
 ---
-title: "Untitled"
-output: revealjs::revealjs_presentation
+title: "<h2>My Title<h2>"
+author: "<br>My Name"
+subtitle: <font size='6'>My Subtitle</font>
+date: <font size = '10'>July 29, 2019</font>
+output:
+  revealjs::revealjs_presentation:
+    template: mod-template.html
+    theme: "serif"
+    transition: slide
+    self_contained: false
+    reveal_plugins: ["zoom", "menu"]
 ---
 
 ## R Markdown
